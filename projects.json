@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Mini Calculator",
+        "desc": "A simple calculator made with vanilla JavaScript",
+        "link": "calc"
+    },
+    
+    {
+        "id": 2,
+        "title": "Stranded: The Game",
+        "desc": "A game made for the Timathon Code Jam, where every level is procedurally generated",
+        "link": "https://github.com/FrankR-7/Pixel-Jams-Game-Timathon-"
+    },
+
+    {
+        "id": 3,
+        "title": "Mini Todo List",
+        "desc": "A simple todo keeper app made with react",
+        "link": "todo"
+    },
+
+    {
+        "id": 4,
+        "title": "Sample Text",
+        "desc": "Sike",
+        "link": "https://youtu.be/dQw4w9WgXcQ"
+    }
+]

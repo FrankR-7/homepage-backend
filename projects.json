@@ -25,5 +25,11 @@
         "title": "Sample Text",
         "desc": "Sike",
         "link": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    {
+        "id": 5,
+        "title": "Project list API",
+        "desc": "An API I built to serve a list of projects I've made in JSON format. The projects you see here are supplied by this same API. Made with flask.py and hosted on Heroku.",
+        "link": "https://frank-project-list.herokuapp.com/projects"
     }
 ]
